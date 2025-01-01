@@ -1,0 +1,8 @@
+#Ignore artifacts:
+dist
+.next/
+public/
+build
+
+#Ignore specific files:
+package-lock.json

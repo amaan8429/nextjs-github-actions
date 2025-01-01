@@ -2,8 +2,7 @@ name: CD Pipeline to Vercel
 
 on:
     push:
-        branches:
-            - main
+
 jobs:
     deploy:
         runs-on: ubuntu-22.04
